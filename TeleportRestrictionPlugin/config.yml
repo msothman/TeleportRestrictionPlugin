@@ -1,0 +1,4 @@
+# list of worlds where teleportation is restricted
+restricted-worlds:
+  - world_nether
+  - world_the_end

@@ -1,0 +1,9 @@
+name: TeleportRestrictionPlugin
+version: 1.0
+main: com.example.teleportrestriction.TeleportRestrictionPlugin
+api-version: 1.16
+description: A plugin to restrict teleportation to specific worlds based on permissions
+permissions:
+  enterworld.permission:
+    description: Allows the player to teleport to restricted worlds
+    default: false
